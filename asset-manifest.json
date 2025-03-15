@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akhilalagi/frontend/static/css/main.560c3fb7.css",
+    "main.js": "/akhilalagi/frontend/static/js/main.8f3d39fd.js",
+    "static/js/453.1b6cbde4.chunk.js": "/akhilalagi/frontend/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/akhilalagi/frontend/index.html",
+    "main.560c3fb7.css.map": "/akhilalagi/frontend/static/css/main.560c3fb7.css.map",
+    "main.8f3d39fd.js.map": "/akhilalagi/frontend/static/js/main.8f3d39fd.js.map",
+    "453.1b6cbde4.chunk.js.map": "/akhilalagi/frontend/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560c3fb7.css",
+    "static/js/main.8f3d39fd.js"
+  ]
+}
