@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/akhilalagi/frontend/static/css/main.560c3fb7.css",
-    "main.js": "/akhilalagi/frontend/static/js/main.8f3d39fd.js",
-    "static/js/453.1b6cbde4.chunk.js": "/akhilalagi/frontend/static/js/453.1b6cbde4.chunk.js",
-    "index.html": "/akhilalagi/frontend/index.html",
-    "main.560c3fb7.css.map": "/akhilalagi/frontend/static/css/main.560c3fb7.css.map",
-    "main.8f3d39fd.js.map": "/akhilalagi/frontend/static/js/main.8f3d39fd.js.map",
-    "453.1b6cbde4.chunk.js.map": "/akhilalagi/frontend/static/js/453.1b6cbde4.chunk.js.map"
+    "main.css": "/frontend/static/css/main.560c3fb7.css",
+    "main.js": "/frontend/static/js/main.d33b2865.js",
+    "static/js/453.1b6cbde4.chunk.js": "/frontend/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/frontend/index.html",
+    "main.560c3fb7.css.map": "/frontend/static/css/main.560c3fb7.css.map",
+    "main.d33b2865.js.map": "/frontend/static/js/main.d33b2865.js.map",
+    "453.1b6cbde4.chunk.js.map": "/frontend/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.560c3fb7.css",
-    "static/js/main.8f3d39fd.js"
+    "static/js/main.d33b2865.js"
   ]
 }
